@@ -1,0 +1,7 @@
+iot-connect-website-project/
+│
+├── README.md
+├── screenshots/
+│   ├── homepage.png
+│   ├── services-page.png
+│   └── mobile-view.png
