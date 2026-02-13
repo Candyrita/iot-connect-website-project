@@ -25,7 +25,7 @@ Web Developer & SEO Strategist
 - WordPress
 - Elementor
 - HTML/CSS
-- SEO Plugins (RankMath, Popup maker, WP Forms, Table of contents)
+- SEO Plugins (RankMath)
 
 ## Outcome
 Improved website usability, search visibility, and overall user engagement.
