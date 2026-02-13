@@ -36,10 +36,10 @@ Improved website usability, search visibility, and overall user engagement.
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/iot-homepage.png)
 
 ### Services Page
-![Services Page](screenshots/services-page.png)
+![Services Page](screenshots/iot-services.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshots/iot-mobile-view.png)
